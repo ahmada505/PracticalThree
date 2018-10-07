@@ -1,4 +1,7 @@
 #pragma once
+#include "State.h"
+#include "Idle.h"
+
 class Animation
 {
 	class State* current;
