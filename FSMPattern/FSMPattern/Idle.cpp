@@ -1,15 +1,8 @@
 #include "pch.h"
 #include "Idle.h"
+#include "Jumping.h"
+#include "Climbing.h"
 
-
-Idle::Idle()
-{
-}
-
-
-Idle::~Idle()
-{
-}
 
 void Idle::jumping(Animation* a)
 {
@@ -18,7 +11,7 @@ void Idle::jumping(Animation* a)
 	delete this;
 }
 
-void Idle::jumping(Animation* a)
+void Idle::climbing(Animation* a)
 {
 	cout << "Climbing" << endl;
 	a->setCurrent(new Idle());

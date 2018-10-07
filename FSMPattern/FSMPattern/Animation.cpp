@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "Animation.h"
-
+#include "Idle.h"
 
 Animation::Animation()
 {
