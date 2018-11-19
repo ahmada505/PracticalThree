@@ -82,5 +82,8 @@
     <Image Include="depositphotos_86335254-stock-illustration-geeky-boy-game-sprites.jpg">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="kirby sprite sheet current.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

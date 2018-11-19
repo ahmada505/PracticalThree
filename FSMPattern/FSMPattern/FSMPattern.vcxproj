@@ -195,6 +195,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="depositphotos_86335254-stock-illustration-geeky-boy-game-sprites.jpg" />
+    <Image Include="kirby sprite sheet current.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
